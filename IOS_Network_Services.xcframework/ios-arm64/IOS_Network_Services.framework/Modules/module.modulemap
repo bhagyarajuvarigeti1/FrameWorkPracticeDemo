@@ -1,0 +1,6 @@
+framework module IOS_Network_Services {
+  umbrella header "IOS_Network_Services.h"
+  export *
+
+  module * { export * }
+}
